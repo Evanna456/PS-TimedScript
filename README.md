@@ -18,7 +18,7 @@
 
 ## Author's Notes
 
-<p>I never knew about PowerShell till somebody from a discord server ask for help on how to run a script for an hour. So I researched the language up, read some stackoverflow solutions and implemented my own. But considering how newb I am to this language, I never offered the solution.</p>
+<p>I've known PowerShell for quite some time but never really know what it does till somebody from a discord server ask for help on how to run a script for an hour. So I researched the language up, read some stackoverflow solutions and implemented my own. But considering how newb I am to this language, I never offered the solution.</p>
 
 ## License
 
